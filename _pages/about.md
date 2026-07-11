@@ -1,8 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Fletcher Fletcher"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Put words here
+
+![](FletcherImage2.jpg)
