@@ -23,7 +23,7 @@ repository               : "fletcher-math/fletcher-math.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "FletcherImage1.jpeg"
   name             : "Fletcher Fletcher"
   pronouns         : "they/them"  
   bio              : "PhD student in pure mathematics at Arizona State University"
