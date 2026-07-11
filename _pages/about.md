@@ -9,4 +9,4 @@ redirect_from:
 
 Put words here
 
-![](FletcherImage2.jpeg)
+![](FletcherMath2.jpeg)
