@@ -18,9 +18,9 @@ Advisor: Jonathan Montaño
 
 ### B.S. in Mathematics, *August 2020 - May 2024*  
 Barrett, The Honors College Graduate  
-Summa Cum Laude - 3.98/4.00  
-Phi Beta Kappa  
 Honors Thesis: *Cryptography in the Quantum Era: How the McEliece Cryptosystem May Be Used to Develop Quantum-Resistant Cryptography*  
 Honors Thesis Advisor: Florian Sprung  
+Summa Cum Laude - 3.98/4.00  
+Phi Beta Kappa  
 Certificate in Disability Studies  
 
