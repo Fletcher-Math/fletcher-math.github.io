@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Put words here
+I am a third-year Mathematics PhD student at Arizona State University working on commutative algebra and its intersections with combinatorics.
 
-![image of Fletcher](FletcherImage3.jpeg)
+![image of Fletcher wearing an ASU Math & Stats shirt](FletcherImage3.jpeg)
