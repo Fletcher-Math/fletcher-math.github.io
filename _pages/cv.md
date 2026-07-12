@@ -12,13 +12,11 @@ Here is the most recent version of my academic CV (opens in new tab):
 
 
 ## Education
-### Ph.D. in Mathematics  
-*August 2024 - May 2029 (expected)*  
+### Ph.D. in Mathematics, *August 2024 - May 2029 (expected)*  
 Arizona State University, Tempe, AZ  
 Advisor: Jonathan Montaño  
 
-### B.S. in Mathematics  
-*August 2020 - May 2024*  
+### B.S. in Mathematics, *August 2020 - May 2024*  
 Barrett, The Honors College Graduate  
 Summa Cum Laude - 3.98/4.00  
 Phi Beta Kappa  
