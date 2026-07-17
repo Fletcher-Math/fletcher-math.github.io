@@ -8,13 +8,5 @@ date: 2026-01-09
 location: "Tempe, AZ, United States of America"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Instructor on record for a Calculus II class with about 40 students.
+* Responsible for preparing and administering lectures, quizzes, and group work.
