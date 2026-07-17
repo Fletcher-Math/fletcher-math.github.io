@@ -1,7 +1,7 @@
 ---
 title: "MAT 266: Calculus II for Engineers"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Course - Instructor on Record"
 permalink: /teaching/2026-spring-teaching-1
 venue: "Arizona State University, School of Mathematical and Statistical Sciences"
 date: 2026-01-09
