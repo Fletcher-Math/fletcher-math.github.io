@@ -1,10 +1,10 @@
 ---
 title: "Grading"
 collection: teaching
-<!-- type: "Undergraduate Course - Instructor on Record" -->
+type: ""
 permalink: /teaching/Grading
 venue: "Arizona State University, School of Mathematical and Statistical Sciences"
-<!-- date: 2025-01-11 -->
+date:
 location: "Tempe, AZ, United States of America"
 ---
 
