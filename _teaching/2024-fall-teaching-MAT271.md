@@ -1,5 +1,5 @@
 ---
-title: "MAT 271: Calculus with Analytic Geometry I"
+title: "MAT 271: Calculus with Analytic Geometry II"
 collection: teaching
 type: "Undergraduate Course - Recitation TA"
 permalink: /teaching/2024-fall-teaching-MAT271
