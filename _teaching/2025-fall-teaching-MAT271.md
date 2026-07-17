@@ -1,7 +1,7 @@
 ---
 title: "MAT 271: Calculus with Analytic Geometry II"
 collection: teaching
-type: "Instructor on Record"
+type: "Recitation TA"
 permalink: /teaching/2025-fall-teaching-MAT271
 venue: "Arizona State University, School of Mathematical and Statistical Sciences"
 date: 2025-08-20
