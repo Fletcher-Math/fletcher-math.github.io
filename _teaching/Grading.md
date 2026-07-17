@@ -1,10 +1,10 @@
 ---
 title: "Grading"
 collection: teaching
-type: ""
+type: "Grading"
 permalink: /teaching/Grading
 venue: "Arizona State University, School of Mathematical and Statistical Sciences"
-date: 2025-08-20
+date: 0000-08-20
 location: "Tempe, AZ, United States of America"
 ---
 
